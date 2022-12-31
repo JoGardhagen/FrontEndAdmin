@@ -1,0 +1,66 @@
+.NavBar{
+    align-items: center;
+}
+.NavBar{
+    text-align: center;
+}
+button{
+    width: 100px;
+    width: 140px;
+    height: 40px;
+    border-radius: 0%;
+    border: none;
+    /* margin-right: 1%; */
+    cursor: pointer;
+}
+#returnBtn{
+    /* width: 100px; */
+    margin-left: 5%;
+    width: 100px;
+    height: 20px;
+    border-radius: 0%;
+    border: none;
+    /* margin-right: 1%; */
+    cursor: pointer;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    background-color: bisque;
+}
+td{
+    width: 100px;
+}
+.formElement{
+    background-color: aquamarine;
+}
+#brand{
+
+    /* margin-left: 5%; */
+}
+#year{
+    /* margin-left: 5%; */
+}
+
+div{
+    text-align: center;
+}
+#success{
+    margin-left: 25%;
+    text-align: center;
+    background-color: greenyellow;
+    width: 50%;
+    height: 40px;
+    padding-top: 15px;
+}
+#nonSuccess{
+    background-color: red;
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+    height: 40px;
+    padding-top: 15px;
+}
